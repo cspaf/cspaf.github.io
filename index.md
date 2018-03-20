@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+# Peter A. Flach
 
-You can use the [editor on GitHub](https://github.com/flach/flach.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Professor of Artificial Intelligence
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Peter Flach has been Professor of Artificial Intelligence at the University of Bristol since 2003. An internationally leading researcher in the areas of mining highly structured data and the evaluation and improvement of machine learning models using ROC analysis, he has also published on the logic and philosophy of machine learning, and on the combination of logic and probability. He is author of Simply Logical: Intelligent Reasoning by Example (John Wiley, 1994) and Machine Learning: the Art and Science of Algorithms that Make Sense of Data (Cambridge University Press, 2012).
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/flach/flach.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Prof Flach is the Editor-in-Chief of the Machine Learning journal, one of the two top journals in the field that has been published for over 25 years by Kluwer and now Springer. He was Programme Co-Chair of the 1999 International Conference on Inductive Logic Programming, the 2001 European Conference on Machine Learning, the 2009 ACM Conference on Knowledge Discovery and Data Mining, and the 2012 European Conference on Machine Learning and Knowledge Discovery in Databases in Bristol.
